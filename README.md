@@ -10,7 +10,7 @@ I have been a software engineer since 2010 and an Android Engineer since 2015. A
 - 🔭 I’m currently working on the Luno Android app
 - 🌱 I’m currently learning more and more of Jetpack Compose
 - 👯 I’m looking to collaborate on Android projects
-- 📫 How to reach me: <a href="https://twitter.com/akitikkx" target="_blank">Twitter</a>
+- 📫 How to reach me: <a href="https://twitter.com/ahmed_tikiwa" target="_blank">Twitter</a>
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I also play the piano and I sing in my past time
 
