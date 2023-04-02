@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ahmed Tikiwa, an Android Software Engineer at Bol.com based in Utrecht, The Netherlands.
+I am Ahmed Tikiwa, a Software Engineer at Bol.com based in Utrecht, The Netherlands.
 
 I am also an official contributor to the <a href="https://devlibrary.withgoogle.com/" target="_blank">Google Developers Dev Library</a>, you can find my author profile <a href="https://devlibrary.withgoogle.com/authors/akitikkx" target="_blank">here</a> and my featured open-source project <a href="https://devlibrary.withgoogle.com/products/android/repos/akitikkx-upnext" target="_blank">Upnext: TV Series Manager</a>.
 
