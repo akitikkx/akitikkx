@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I am Ahmed Tikiwa, a Senior Software Engineer and Android Tech Lead at Luno, a platform that allows customers to securely buy, store, explore and earn cryptocurrencies including Bitcoin, Ripple, Etherium and USD Coin. I am also a co-organizer for the Cape Town Google Developer Group (GDG) as well as a mentor for the Exchange with Google Developers program.
+I am Ahmed Tikiwa, an Android Software Engineer at Bol.com based in Utrecht, The Netherlands.
 
 I am also an official contributor to the <a href="https://devlibrary.withgoogle.com/" target="_blank">Google Developers Dev Library</a>, you can find my author profile <a href="https://devlibrary.withgoogle.com/authors/akitikkx" target="_blank">here</a> and my featured open-source project <a href="https://devlibrary.withgoogle.com/products/android/repos/akitikkx-upnext" target="_blank">Upnext: TV Series Manager</a>.
 
 I have been a software engineer since 2010 and an Android Engineer since 2015. Apart from software developement, I also give tech talks at conferences, meetups as well as blog on Medium. Though I love creating applications that help make a difference in people's lives, my passion is to share the knowledge I have gained to my fellow developer community through the aforementioned talks and blogs. 
 
 
-- 🔭 I’m currently working on the Luno Android app
+- 🔭 I’m currently working on the Bol.com Android app
 - 🌱 I’m currently learning more and more of Jetpack Compose
 - 👯 I’m looking to collaborate on Android projects
 - 📫 How to reach me: <a href="https://twitter.com/ahmed_tikiwa" target="_blank">Twitter</a>
