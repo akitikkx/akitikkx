@@ -8,7 +8,7 @@ I have been a software engineer since 2010 and an Android Engineer since 2015. A
 
 
 - 🔭 I’m currently working on the Bol.com Android app
-- 🌱 I’m currently learning more and more of Jetpack Compose
+- 🌱 I’m always learning, always hungry to learn a new thing
 - 👯 I’m looking to collaborate on Android projects
 - 📫 How to reach me: <a href="https://twitter.com/ahmed_tikiwa" target="_blank">Twitter</a>
 - 😄 Pronouns: Him/He
